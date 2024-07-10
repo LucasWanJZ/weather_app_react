@@ -1,2 +1,3 @@
-# python_projects
-Just a bunch of random python projects that i built ʕ•ᴥ•ʔ
+# weather_app_project
+
+Building a weather app with openweathermap api
